@@ -3,6 +3,10 @@
 * Creating a language using Lex-Yacc
 * Python 3
 * Reads from a text file
+* Stores variables
+* Does basic calculator functions
+* Concatinations
+* Tuples
 
 ## Example Text File
 ```python
